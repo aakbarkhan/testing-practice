@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# TODO LIST: ToDo's List.
+# Testing Practice.
 
-> This project is about Todo list.
+> Testing.
 
 ![screenshot](todolist.png)
 
