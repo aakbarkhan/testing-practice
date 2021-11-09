@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aakbarkhan/testing-practice/issues"
   },
-  "homepage": "https://github.com/aakbarkhan/testing-practice#readme"
+  "homepage": "https://github.com/aakbarkhan/testing-practice#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.0"
+  }
 }
